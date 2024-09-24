@@ -1,4 +1,5 @@
 Hi there! 👋
+![](https://komarev.com/ghpvc/?username=BayraaKaspersky)
 
 I am Bayarjargal, a software engineer with 4 years of experience specializing in mobile and web development. My journey has allowed me to work across a variety of platforms and technologies, building modern, efficient applications that meet user needs.
 
