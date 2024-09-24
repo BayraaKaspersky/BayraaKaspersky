@@ -32,7 +32,7 @@ I am Bayarjargal, a software engineer with 4 years of experience specializing in
 
 
 
-More about me 🪆
+More about me 👨‍💻
 <p>
 👨‍💻 I’m currently honing my skills in AWS and cloud architecture to enhance my expertise in scalable web and mobile applications.
   </p>
