@@ -11,7 +11,6 @@ I am Bayarjargal, a software engineer with 4 years of experience specializing in
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
@@ -30,12 +29,18 @@ I am Bayarjargal, a software engineer with 4 years of experience specializing in
 
 
 More about me 🪆
+<p>
 👨‍💻 I’m currently honing my skills in AWS and cloud architecture to enhance my expertise in scalable web and mobile applications.
+  </p>
+  <p>
 🌱 I’m learning more about serverless architecture and optimizing performance for mobile apps.
+    </p>
+    <p>
 🔭 Currently working in Japan at Lixil Company, where I develop desktop applications using Visual Basic .NET.
-
+</p>
+<p>
 Feel free to reach out if you want to chat about code, collaborate, or just say hi!
-
+</p>
 
 
 🌐 Connect with me
